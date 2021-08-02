@@ -1,0 +1,4 @@
+/fp/trained_models/**/**.pth
+/tw/trained_models/**/**.pth
+**/.DS_Store
+**/__pycache__/
